@@ -1,0 +1,11 @@
+{
+  "name": "node-deepl",
+  "version": "1.0.0",
+  "description": "Translation package using deepl.com's undocumented API",
+  "main": "index.js",
+  "author": "pbrln",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
